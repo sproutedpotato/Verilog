@@ -5,7 +5,7 @@ This is an alarm clock module created during the first semester of 24.
 I am using 4 buttons, and I wrote it using verilog.
 
 24년도 1학기, 디지털 시스템 설계 프로젝트에 작성하였습니다.
-erilog으로 작성한 알람시계 모듈 스크립트이며 4개의 버튼을 사용합니다.
+Verilog으로 작성한 알람시계 모듈 스크립트이며 4개의 버튼을 사용합니다.
 
 ----------------
 
