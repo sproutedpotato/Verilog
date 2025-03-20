@@ -1,4 +1,4 @@
-## Verilog
+## Alarm Module
 ----------------
 
 This is an alarm clock module created during the first semester of 24.
@@ -24,4 +24,4 @@ module 4 : setNumber.v
 module 5 : DECODER.v
 > 받은 숫자를 segment로 바꾸는 모듈입니다.
 
-
+----------------
